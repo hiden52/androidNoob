@@ -1,0 +1,6 @@
+{
+  "tabWidth": 4,
+  "useTabs": true,
+  "javascript.format.enable": false,
+  "typescript.format.enable": false
+}
