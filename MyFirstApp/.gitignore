@@ -24,7 +24,7 @@ DerivedData
 # Android/IntelliJ
 #
 build/
-!build/*.apk
+!build/outputs/apk/dubug/*.apk
 .idea
 .gradle
 local.properties
