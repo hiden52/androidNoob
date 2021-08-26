@@ -24,11 +24,14 @@ DerivedData
 # Android/IntelliJ
 #
 build/
-!build/outputs/apk/dubug/*.apk
 .idea
 .gradle
 local.properties
 *.iml
+
+!build/
+build/*
+!build/*.apk
 
 # node.js
 #
